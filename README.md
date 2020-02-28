@@ -9,5 +9,6 @@
 
 * [OpenPose 之 Part Affinity Fields (PAFs)讲解](./PAFs)
 * [匈牙利算法](./Hungary)
-* CNN之Batch Normlization
-* 单图像超分辨率重建（SRCNN）
+* [CNN之Batch Normlization](./BatchNormlization)
+* [单图像超分辨率重建SRCNN](./SRCNN)
+* [CornerNet——基于关键点的目标检测](./CornerNet)
