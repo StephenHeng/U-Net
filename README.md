@@ -8,6 +8,6 @@
 ###算法列表
 
 * [OpenPose 之 Part Affinity Fields (PAFs)讲解](./PAFs)
-* 匈牙利算法
+* [匈牙利算法](./Hungary algorithm)
 * CNN之Batch Normlization
 * 单图像超分辨率重建（SRCNN）
