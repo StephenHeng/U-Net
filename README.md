@@ -34,3 +34,5 @@ If there is any violation of your rights and intellectual property, please conta
    * [双流法的融合, Feature fusion methods for two streams](./VideoStream/TwoStreamFusion)
 * 目标检测专辑, Object detection
    * [FasterRCNN](./ObjDetection/FasterRCNN)
+* 行人重识别专辑, Person Re-ID
+   * [MGN](./Re-ID/MGN)
