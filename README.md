@@ -32,7 +32,13 @@ If there is any violation of your rights and intellectual property, please conta
 * [决策树算法, Decision Tree](./DecisionTree)
 * 视频流相关算法, Feature learning for video streams
    * [双流法的融合, Feature fusion methods for two streams](./VideoStream/TwoStreamFusion)
+   * [P3D, Pseudo-3D Residual Networks](./VideoStream/P3D)
 * 目标检测专辑, Object detection
    * [FasterRCNN](./ObjDetection/FasterRCNN)
 * 行人重识别专辑, Person Re-ID
-   * [MGN](./Re-ID/MGN)
+   * [MGN: Multi-granularities for Re-ID](./Re-ID/MGN)
+   * [EANet:Enhancing Alignment for Cross-Domain Re-ID](./Re-ID/EANet)
+* 人脸识别专辑, Face Recogntion
+   * [ArcFace, insight face](./FaceRecogntion)
+   
+   

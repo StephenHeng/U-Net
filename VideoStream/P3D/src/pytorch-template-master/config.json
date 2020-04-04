@@ -1,0 +1,50 @@
+{
+    "name": "C3D",
+    "n_gpu": 1,
+
+    "arch": {
+      "type": "C3D",
+      "args": {}
+    },
+    "data_loader": {
+        "type": "MyDataLoader",
+        "args":{
+            "data_dir": "E:\\github\\video\\pytorch-video-recognition-master\\dataset\\test1",
+            "num_class": 50,
+            "batch_size":3,
+            "shuffle": true,
+            "validation_split": 0.1
+        }
+    },
+   "optimizer": {
+        "type": "Adam",
+        "args":{
+            "lr": 0.001,
+            "weight_decay": 0,
+            "amsgrad": true
+        }
+    },
+    "loss": "nll_loss",
+    "metrics": [
+        "accuracy", "top_k_acc"
+    ],
+    "lr_scheduler": {
+        "type": "StepLR",
+        "args": {
+            "step_size": 50,
+            "gamma": 0.1
+        }
+    },
+    "trainer": {
+        "epochs": 50,
+
+        "save_dir": "saved/",
+        "save_period": 1,
+        "verbosity": 2,
+        
+        "monitor": "min val_loss",
+        "early_stop": 10,
+
+        "tensorboard": false
+    }
+}
