@@ -40,5 +40,6 @@ If there is any violation of your rights and intellectual property, please conta
    * [EANet:Enhancing Alignment for Cross-Domain Re-ID](./Re-ID/EANet)
 * 人脸识别专辑, Face Recogntion
    * [ArcFace, insight face](./FaceRecogntion)
-   
+* 半监督学习, Semi-supervised Learning
+   * [Joint Weakly and Semi-Supervised Breast Ultrasound](./Semi-supervised/JointWeakly)
    
