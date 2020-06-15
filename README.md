@@ -25,6 +25,7 @@ If there is any violation of your rights and intellectual property, please conta
 * [卷积神经网络基础入门实验, Introduction of CNN with Tensorflow](./CNN_Basic)
 * [OpenPose: Part Affinity Fields (PAFs)](./PAFs)
 * [匈牙利算法, Hungarian algorithm](./Hungary)
+* [一种大规模图像检索算法--基于深度局部主注意力特征 Large-Scale Image Retrieval with Attentive Deep Local Features](./DELF)
 * [Batch Normlization of CNN](./BatchNormlization)
 * [单图像超分辨率重建SRCNN, Single image super resolution reconstruction--SRCNN](./SRCNN)
 * [CornerNet——基于关键点的目标检测, Object detection based on key points](./CornerNet)
