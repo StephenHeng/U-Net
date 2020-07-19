@@ -21,14 +21,14 @@ If there is any violation of your rights and intellectual property, please conta
 *Our code is for learning only, please contact us before using it for other purposes*
 
 ### 算法列表(Algorithms)
-
+* 我们团队论文讲解, Papers of Our Group
+	* [基于形状约束及困难样本挖掘的乳腺超声图像分类, Classification method for samples that are easy to be confused in breast ultrasound images](./OurGroup/HardSample)
 * [卷积神经网络基础入门实验, Introduction of CNN with Tensorflow](./CNN_Basic)
 * [OpenPose: Part Affinity Fields (PAFs)](./PAFs)
 * [匈牙利算法, Hungarian algorithm](./Hungary)
 * [一种大规模图像检索算法--基于深度局部主注意力特征 Large-Scale Image Retrieval with Attentive Deep Local Features](./DELF)
 * [Batch Normlization of CNN](./BatchNormlization)
 * [单图像超分辨率重建SRCNN, Single image super resolution reconstruction--SRCNN](./SRCNN)
-* [CornerNet——基于关键点的目标检测, Object detection based on key points](./CornerNet)
 * [华为云平台ModelArts入门, Introduction of ModelArts](./ModelArts)
 * [决策树算法, Decision Tree](./DecisionTree)
 * 视频流相关算法, Feature learning for video streams
@@ -36,6 +36,9 @@ If there is any violation of your rights and intellectual property, please conta
    * [P3D, Pseudo-3D Residual Networks](./VideoStream/P3D)
 * 目标检测专辑, Object detection
    * [FasterRCNN](./ObjDetection/FasterRCNN)
+   * [MaskRCNN](./ObjDetection/MaskRCNN)
+   * [用于视频对象检测的内存增强的全局-本地聚合 MEGA for VOD](./ObjDetection/MEGAforVOD)
+   * [CornerNet——基于关键点的目标检测, Object detection based on key points](./CornerNet)
 * 行人重识别专辑, Person Re-ID
    * [MGN: Multi-granularities for Re-ID](./Re-ID/MGN)
    * [EANet:Enhancing Alignment for Cross-Domain Re-ID](./Re-ID/EANet)
@@ -43,4 +46,5 @@ If there is any violation of your rights and intellectual property, please conta
    * [ArcFace, insight face](./FaceRecogntion)
 * 半监督学习, Semi-supervised Learning
    * [Joint Weakly and Semi-Supervised Breast Ultrasound](./Semi-supervised/JointWeakly)
+
    
