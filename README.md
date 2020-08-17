@@ -39,6 +39,7 @@ If there is any violation of your rights and intellectual property, please conta
    * [MaskRCNN](./ObjDetection/MaskRCNN)
    * [用于视频对象检测的内存增强的全局-本地聚合 MEGA for VOD](./ObjDetection/MEGAforVOD)
    * [CornerNet——基于关键点的目标检测, Object detection based on key points](./CornerNet)
+   * [Yolo](./ObjDetection)
 * 行人重识别专辑, Person Re-ID
    * [MGN: Multi-granularities for Re-ID](./Re-ID/MGN)
    * [EANet:Enhancing Alignment for Cross-Domain Re-ID](./Re-ID/EANet)
