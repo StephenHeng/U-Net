@@ -48,5 +48,6 @@ If there is any violation of your rights and intellectual property, please conta
 * 非监督学习, UnSupervised Learning
    * [Joint Weakly and Semi-Supervised Breast Ultrasound](./Semi-supervised/JointWeakly)
    * [basic ideas of self-supervised learning](./Semi-supervised/SelfSupervised)
-
+* 其它技术、工具等, miscellaneous subjects
+   * [Annotation/Label tools for images and videos](./Others/annotationTool)
    
